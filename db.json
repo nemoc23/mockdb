@@ -1,4 +1,6 @@
-[
+{
+    "records":
+    [
     {
         "id": 98,
         "proteasNumber": "xqs4lOvz9t",
@@ -150,3 +152,4 @@
         "loi": 0.27
     }
 ]
+}
